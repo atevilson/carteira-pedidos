@@ -1,6 +1,6 @@
-### Relatório de carteira de pedidos
+## Relatório de carteira de pedidos
 
-## Automatização de Relatório em Python
+### Automatização de Relatório em Python
 
 Este projeto desenvolvido para empresa que trabalho marca o primeiro passo em direção à **automatização** de um relatório que anteriormente era atualizado manualmente via planilha. A proposta principal deste projeto em Python é a **automação** desse processo, resultando em uma significativa redução no tempo gasto na atualização do relatório.
 
@@ -10,6 +10,8 @@ Além disso, a segunda parte do projeto inclui o desenvolvimento de um *dashboar
 
 Agradeço por acompanhar o progresso deste projeto e fique atento para as atualizações futuras, incluindo o lançamento do *dashboard*.
 
+
+[Clique aqui para abrir o Notebook e confira a análise aplicada](https://github.com/atevilson/carteira-pedidos/blob/main/carteira-pedidos.ipynb)
 
 
 
